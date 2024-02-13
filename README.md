@@ -1,5 +1,6 @@
 ### Hi there 👋
-- I am Pranto 😀
+- I am Shohbat 
+- You can call me Pranto 😀
 - 🔭 I’m currently Majoring in Computer Science at Brac University 
 - 📫 How to reach me: shohbatahsanpranto@gmail.com 
 
