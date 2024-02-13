@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I am Pranto 😄..
-- 🔭 I’m currently Studying at Brac University ...
-- 📫 How to reach me: shohbatahsanpranto@gmail.com ...
+- I am Pranto 😄
+- 🔭 I’m currently Studying at Brac University 
+- 📫 How to reach me: shohbatahsanpranto@gmail.com 
 
 <!--
 **ShohbatPranto/ShohbatPranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
