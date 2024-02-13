@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am Pranto 😄
+- I am Pranto 😀
 - 🔭 I’m currently Studying at Brac University 
 - 📫 How to reach me: shohbatahsanpranto@gmail.com 
 
