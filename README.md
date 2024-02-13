@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I am Pranto 😀
-- 🔭 I’m currently Studying at Brac University 
+- 🔭 I’m currently Majoring in Computer Science at Brac University 
 - 📫 How to reach me: shohbatahsanpranto@gmail.com 
 
 <!--
