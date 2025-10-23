@@ -3,14 +3,17 @@
 🎓 Computer Science Graduate | 🤖 AI & Data Enthusiast | 💡 Driven by Problem-Solving  
 
 Welcome to my GitHub!  
-I’m passionate about turning data into insight and building intelligent systems that solve real-world problems. My experience ranges from applying machine learning for **deepfake detection** to developing automation and analytics tools in **Python** and **Java**.  
+I’m passionate about turning data into insight and building intelligent systems that solve real-world problems. My experience ranges from applying machine learning for **deepfake detection** to developing automation and analytics tools in **Python** and other languages. 
 
 ---
 
 ### 🚀 Featured Projects  
 
 🔹 **[PC to Google Drive Folder Sync](https://github.com/ShohbatPranto/PC-to-Gdrive-Folder-Sync)**  
-Automates local-to-cloud backup using the Google Drive API with authentication and progress tracking.  
+Automates local-to-cloud backup using the Google Drive API with authentication and progress tracking.
+
+🔹 **[Financial Statement Generator](https://github.com/ShohbatPranto/FinancialStatementGenerator)**  
+Generates Financial Statements based on Given financial data taken as CSV files or manually inputted.
 
 🔹 **[Weather Prediction](https://github.com/ShohbatPranto/Weather-Prediction)**  
 Predicts weather conditions using regression models trained on historical climate data.  
